@@ -1,0 +1,12 @@
+{
+    "kaan": {
+        "password": "1234",
+        "balance": 1500.0,
+        "is_admin": true
+    },
+    "omer": {
+        "password": "3333",
+        "balance": 500.0,
+        "is_admin": false
+    }
+}

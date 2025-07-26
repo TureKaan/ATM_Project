@@ -1,0 +1,5 @@
+[2025-07-18 12:55:10] Bakiye görüntüleme
+[2025-07-18 12:55:26] 50.0 TL yatırıldı
+[2025-07-18 12:55:31] 50.0 TL çekildi
+[2025-07-18 12:55:40] sistemden çıkış yapıldı
+[2025-07-20 23:00:32] omer kullanıcısından 500.0 TL alındı
